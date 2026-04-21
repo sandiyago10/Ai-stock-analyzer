@@ -1,3 +1,4 @@
+# AI Stock Analyzer Project - Open Source
 import yfinance as yf
 
 def analyze_stock(stock):
